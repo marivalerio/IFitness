@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">IFitness</string>
+    <string name="rbCaminhada">Caminhada</string>
+    <string name="rbCiclismo">Ciclismo</string>
+    <string name="rbCorrida">Corrida</string>
+    <string name="rbNatacao">Natação</string>
+    <string name="txtTipoAtividade">Tipo de atividade:</string>
+    <string name="btnSalvar">Salvar</string>
+    <string name="strgCaloria">Caloria</string>
+    <string name="strgKM">Quilometragem KM</string>
+    <string name="strgDuracao">Duração</string>
 </resources>

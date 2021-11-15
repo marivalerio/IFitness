@@ -6,13 +6,44 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="407dp"
+            android:layout_height="203dp"
+            android:layout_margin="8dp"
+            app:srcCompat="@drawable/i_fitiness_app" />
+
+        <Button
+            android:id="@+id/btnNovaAtividade"
+            android:layout_width="372dp"
+            android:layout_height="51dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="10dp"
+            android:text="Nova Atividade"
+            tools:layout_editor_absoluteX="19dp"
+            tools:layout_editor_absoluteY="264dp"
+            android:backgroundTint="@color/green"/>
+
+        <TextView
+            android:id="@+id/txtAtividades"
+            android:layout_width="372dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="0 atividade(s) - 0 minutos - 0 Km - 0 calorias"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="10dp" />
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:id="@+id/lstAtividades"/>
+
+    </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
