@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/drawable-anydpi/ic_logo.xml" value="0.221875" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/drawable-anydpi/ic_menu_home.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3769230769230769" />
         <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/drawable/ic_baseline_directions_run_24.xml" value="0.3769230769230769" />
         <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/drawable/ic_bike.xml" value="0.3769230769230769" />
@@ -11,8 +13,31 @@
         <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/drawable/ic_run.xml" value="0.3769230769230769" />
         <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/drawable/ic_walk.xml" value="0.3769230769230769" />
         <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/activity_add_atividade.xml" value="0.2776268115942029" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/activity_atividade.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/activity_atividades.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/activity_cadastro.xml" value="0.2015625" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/activity_cadastro_atividade.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/activity_cadastro_usuario.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/activity_estatistica.xml" value="0.21875" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/activity_leaderboard.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/activity_perfil_usuario.xml" value="0.21875" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/activity_splash.xml" value="0.25" />
         <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/adapter_atividade.xml" value="0.2776268115942029" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/adapter_emblema.xml" value="0.21875" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/adapter_leaderboard.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/header_cadastro_usuario.xml" value="0.1" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/header_login.xml" value="0.26510416666666664" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/item_atividade.xml" value="0.21875" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/menu_header.xml" value="0.22" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/menu_header_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/menu_header_login.xml" value="0.1" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/menu_login.xml" value="0.2015625" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/menu_navigation_view.xml" value="0.26721014492753625" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/menu_toolbar.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/layout/menu_toolbar_layout.xml" value="0.21875" />
+        <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/menu/menu_drawer.xml" value="0.30625" />
         <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.25" />
         <entry key="..\:/Users/Figueira/AndroidStudioProjects/IFitness/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22135416666666666" />
       </map>

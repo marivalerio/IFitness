@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AtividadeActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include layout="@layout/menu_toolbar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <Button
+        android:id="@+id/btnNovaAtividade"
+        android:layout_width="350dp"
+        android:layout_height="51dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="0dp"
+        android:text="Nova Atividade"
+        tools:layout_editor_absoluteX="19dp"
+        tools:layout_editor_absoluteY="264dp"
+        android:backgroundTint="@color/green_primary"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvAtividade"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

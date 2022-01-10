@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280444692497",
+    "project_id": "ifitness--dmos5",
+    "storage_bucket": "ifitness--dmos5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280444692497:android:405979b087a8355de769b0",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.arq.dmo.ifitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280444692497-5sr17aoggs6bl68o5mjr9u01478gr3i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIEpJ5gvLNfW3RwFOU6NCyhSi011WQ6Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280444692497-5sr17aoggs6bl68o5mjr9u01478gr3i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
